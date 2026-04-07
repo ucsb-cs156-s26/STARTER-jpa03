@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-s26/STARTER-jpa03
 owner: ucsb-cs156-s26
 repo_name: STARTER-jpa03
-pull_requests: []
+pull_requests: [{"author":{"id":"MDQ6VXNlcjI2MzQ3ODk3","is_bot":false,"login":"Division7","name":"Daniel Jensen"},"headRefName":"dj-addActuator","number":1,"title":"Implementing a Way to Verify the Value of ADMIN_EMAILS","url":"https://github.com/ucsb-cs156-s26/STARTER-jpa03/pull/1"}]
